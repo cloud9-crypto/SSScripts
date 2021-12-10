@@ -1,0 +1,10 @@
+#python packages needed for this script
+boto3
+sys
+json
+time
+csv
+os
+collections  
+paramiko
+botocore.exceptions

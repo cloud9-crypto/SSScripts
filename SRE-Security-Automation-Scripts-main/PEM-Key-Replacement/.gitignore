@@ -1,0 +1,8 @@
+#any local folder that has pem keys or public keys
+localfiles/
+
+#systemfiles from your local macos
+.DS_Store
+
+#any pem keypairs
+*.pem
